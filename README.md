@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KostaJUULs
 - 👀 I’m interested in FiveM
-- 🌱 I’m currently learning JavaScript, 3D Modeling and LUA
+- 🌱 I’m currently learning JavaScript and LUA
 - 💞️ I’m looking to collaborate on FiveM Resources 
 - 📫 How to reach me Kosta#0420 on Discord
 
